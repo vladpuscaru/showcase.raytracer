@@ -1,0 +1,10 @@
+# output
+obj/
+bin/
+
+# IDE
+.idea
+
+# OS
+.DS_Store
+mov
